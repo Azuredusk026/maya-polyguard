@@ -1,0 +1,106 @@
+{
+    "trailingNumbers": {
+        "label": "数字后缀",
+        "category": "2 - 命名"
+    },
+    "duplicatedNames": {
+        "label": "复制的名称",
+        "category": "2 - 命名"
+    },
+    "shapeNames": {
+        "label": "Shape名称",
+        "category": "2 - 命名"
+    },
+    "namespaces": {
+        "label": "名称空间",
+        "category": "2 - 命名"
+    },
+    "layers": {
+        "label": "层",
+        "category": "1 - 常规"
+    },
+    "history": {
+        "label": "历史",
+        "category": "1 - 常规"
+    },
+    "shaders": {
+        "label": "材质",
+        "category": "1 - 常规"
+    },
+    "unfrozenTransforms": {
+        "label": "未冻结的变换",
+        "category": "1 - 常规"
+    },
+    "uncenteredPivots": {
+        "label": "未居中的轴心",
+        "category": "1 - 常规"
+    },
+    "parentGeometry": {
+        "label": "父级几何体",
+        "category": "1 - 常规"
+    },
+    "emptyGroups": {
+        "label": "空组",
+        "category": "1 - 常规"
+    },
+    "triangles": {
+        "label": "三角面",
+        "category": "3 - 网格拓扑"
+    },
+    "ngons": {
+        "label": "多边形面(Ngons)",
+        "category": "3 - 网格拓扑"
+    },
+    "openEdges": {
+        "label": "开放的边",
+        "category": "3 - 网格拓扑"
+    },
+    "poles": {
+        "label": "极点（Poles）",
+        "category": "3 - 网格拓扑"
+    },
+    "hardEdges": {
+        "label": "硬边",
+        "category": "3 - 网格拓扑"
+    },
+    "lamina": {
+        "label": "Lamina",
+        "category": "3 - 网格拓扑"
+    },
+    "zeroAreaFaces": {
+        "label": "0面积的面(Zero Area Faces)",
+        "category": "3 - 网格拓扑"
+    },
+    "zeroLengthEdges": {
+        "label": "0长度的边(Zero Length Edges)",
+        "category": "3 - 网格拓扑"
+    },
+    "noneManifoldEdges": {
+        "label": "非流形边(Non-Manifold Edges)",
+        "category": "3 - 网格拓扑"
+    },
+    "starlike": {
+        "label": "星形点(Starlike)",
+        "category": "3 - 网格拓扑"
+    },
+    "selfPenetratingUVs": {
+        "label": "重叠的UVs",
+        "category": "4 - UVs"
+    },
+    "missingUVs": {
+        "label": "缺失的UVs",
+        "category": "4 - UVs"
+    },
+    "uvRange": {
+        "label": "UV范围",
+        "category": "4 - UVs"
+    },
+    "crossBorder": {
+        "label": "跨界的UVs",
+        "category": "4 - UVs"
+    },
+    "onBorder": {
+        "label": "在边界上的UVs",
+        "category": "4 - UVs"
+    }
+}
