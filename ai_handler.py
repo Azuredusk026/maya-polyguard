@@ -35,7 +35,7 @@ class AIHandler:
         prompt_content = "以下是Maya场景资产检查出的问题ID汇总：\n"
         prompt_content += error_summary + "\n"
 
-        model_name = cmds.optionVar(q="PolyGuard_AI_MODEL") or "gpt-4o-mini"
+        model_name = cmds.optionVar(q="PolyGuard_AI_MODEL") or "gpt-4o"
 
         # 构造请求
         data = {
